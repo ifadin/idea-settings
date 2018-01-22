@@ -1,0 +1,15 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.9.4" last-modified="1514955770000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/bin/python3" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
