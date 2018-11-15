@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
+      <mapping pattern="cass" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="pcd" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
