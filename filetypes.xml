@@ -6,6 +6,7 @@
       <mapping pattern="cass" type="PLAIN_TEXT" />
       <mapping pattern="pcd" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
