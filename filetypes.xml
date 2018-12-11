@@ -2,10 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="cass" type="PLAIN_TEXT" />
-      <mapping pattern="pcd" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="pcd" type="PLAIN_TEXT" />
+      <mapping pattern="cass" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
