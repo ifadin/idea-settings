@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".claspignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="pcd" type="PLAIN_TEXT" />
       <mapping pattern="cass" type="PLAIN_TEXT" />
