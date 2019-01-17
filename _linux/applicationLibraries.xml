@@ -1,5 +1,34 @@
 <application>
   <component name="libraryTable">
+    <library name="Python 3.6 (airpipe) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/p/airpipe/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/p/airpipe/.venv/src/dna-queries" />
+        <root url="file://$USER_HOME$/p/airpipe/.venv/src/datalake" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-422188499" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/p/airpipe/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/p/airpipe/.venv/src/dna-queries" />
+        <root url="file://$USER_HOME$/p/airpipe/.venv/src/datalake" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-422188499" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6 (ci-client-definitions) interpreter library">
       <CLASSES>
         <root url="file:///usr/lib/python3.6" />
@@ -22,6 +51,35 @@
         <root url="jar://$USER_HOME$/p/ci-client-definitions/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
         <root url="file://$USER_HOME$/p/ci-client-definitions/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-512221568" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6 (dna-tools) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/p/dna-tools/.venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/p/dna-tools/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/p/dna-tools/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1319837728" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/p/dna-tools/.venv/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/p/dna-tools/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/p/dna-tools/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
+        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/1319837728" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
