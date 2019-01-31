@@ -93,7 +93,6 @@
         <root url="file:///usr/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/p/gooddata-python/.venv/lib/python3.6/site-packages" />
         <root url="jar://$USER_HOME$/p/gooddata-python/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/p/gooddata-python/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1944723997" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -107,7 +106,6 @@
         <root url="file:///usr/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/p/gooddata-python/.venv/lib/python3.6/site-packages" />
         <root url="jar://$USER_HOME$/p/gooddata-python/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/p/gooddata-python/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1944723997" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -122,7 +120,6 @@
         <root url="file:///usr/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/p/ldm/.venv/lib/python3.6/site-packages" />
         <root url="jar://$USER_HOME$/p/ldm/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/p/ldm/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1266451504" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -136,7 +133,6 @@
         <root url="file:///usr/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/p/ldm/.venv/lib/python3.6/site-packages" />
         <root url="jar://$USER_HOME$/p/ldm/.venv/lib/python3.6/site-packages/setuptools-39.1.0-py3.6.egg!/" />
-        <root url="file://$USER_HOME$/p/ldm/.venv/lib/python3.6/site-packages/pip-10.0.1-py3.6.egg" />
         <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-1266451504" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
