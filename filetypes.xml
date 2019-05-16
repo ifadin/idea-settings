@@ -23,6 +23,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
+      <mapping ext="ldm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
