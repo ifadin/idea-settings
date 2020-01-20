@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="pre-commit" type="Bash" />
+      <mapping pattern="registerServ" type="JavaScript" />
       <mapping ext="xlsm" type="Native" />
       <mapping pattern="SkuPdpDistributionChart" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
