@@ -6,6 +6,7 @@
       <mapping ext="xlsm" type="Native" />
       <mapping pattern="cass" type="PLAIN_TEXT" />
       <mapping pattern="orig" type="PLAIN_TEXT" />
+      <mapping pattern="CISSOService" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="SkuPdpDistributionChart" type="PLAIN_TEXT" />
       <mapping pattern="query" type="PLAIN_TEXT" />
