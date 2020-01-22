@@ -23,6 +23,7 @@
       <mapping pattern=".lock" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="SkuNumberContext" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="drop" type="PLAIN_TEXT" />
