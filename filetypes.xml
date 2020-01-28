@@ -16,6 +16,7 @@
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc.build" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="gd_metric" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="node-docker" type="PLAIN_TEXT" />
