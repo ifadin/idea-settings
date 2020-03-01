@@ -38,6 +38,7 @@
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="ldm" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern="test_example.py" type="Python" />
       <mapping pattern="prtime" type="Python" />
       <mapping ext="grf" type="XML" />
       <mapping pattern="pre-commit" type="Bash" />
