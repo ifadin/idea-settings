@@ -130,5 +130,17 @@
         <url>file://$USER_HOME$/.local/lib/datawarehouse-jdbc-driver-bundle-3.5.1.jar</url>
       </library>
     </driver>
+    <driver id="6ec25438-9b4e-4cc5-8eea-8ef59e88fc3e" name="PrestoSQL" dialect="GenericSQL" driver-class="com.facebook.presto.jdbc.PrestoDriver">
+      <url-template name="url" template="jdbc:presto://{host}:{port}[/{database}]" />
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$USER_HOME$/.local/lib/presto-jdbc-0.234.2.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
