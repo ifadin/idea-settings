@@ -9,7 +9,7 @@
       <mapping pattern="CISSOService" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
       <mapping pattern="SkuPdpDistributionChart" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
+      <mapping pattern="query" type="PLAIN_TEXT" />
       <mapping pattern="uspass" type="PLAIN_TEXT" />
       <mapping pattern=".claspignore" type="PLAIN_TEXT" />
       <mapping pattern="apply" type="PLAIN_TEXT" />
@@ -25,7 +25,7 @@
       <mapping pattern=".lock" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="SkuNumberContext" type="PLAIN_TEXT" />
-      <mapping pattern="query" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping ext="ovpn" type="PLAIN_TEXT" />
       <mapping ext="drop" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
