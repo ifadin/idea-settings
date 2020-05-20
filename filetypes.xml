@@ -18,6 +18,7 @@
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="pcd" type="PLAIN_TEXT" />
       <mapping pattern="gd_metric" type="PLAIN_TEXT" />
+      <mapping pattern="article-group-assignment-api-secret-token" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="bricks" type="PLAIN_TEXT" />
