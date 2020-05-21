@@ -6,6 +6,7 @@
       <mapping pattern="bug" type="PLAIN_TEXT" />
       <mapping pattern="cass" type="PLAIN_TEXT" />
       <mapping pattern="orig" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping pattern="CISSOService" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
       <mapping pattern="SkuPdpDistributionChart" type="PLAIN_TEXT" />
@@ -15,10 +16,9 @@
       <mapping pattern="apply" type="PLAIN_TEXT" />
       <mapping pattern="res" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc.build" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
+      <mapping pattern="article-group-assignment-api-secret-token" type="PLAIN_TEXT" />
       <mapping pattern="pcd" type="PLAIN_TEXT" />
       <mapping pattern="gd_metric" type="PLAIN_TEXT" />
-      <mapping pattern="article-group-assignment-api-secret-token" type="PLAIN_TEXT" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="bricks" type="PLAIN_TEXT" />
