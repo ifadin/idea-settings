@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="registerServ" type="JavaScript" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
       <mapping pattern="bug" type="PLAIN_TEXT" />
       <mapping pattern="cass" type="PLAIN_TEXT" />
@@ -33,7 +34,6 @@
       <mapping ext="drop" type="PLAIN_TEXT" />
       <mapping ext="rules" type="PLAIN_TEXT" />
       <mapping ext="index" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="prm" type="PLAIN_TEXT" />
       <mapping ext="rc" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
@@ -41,6 +41,7 @@
       <mapping ext="version" type="PLAIN_TEXT" />
       <mapping ext="ldm" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping pattern="test_example.py" type="Python" />
       <mapping pattern="prtime" type="Python" />
