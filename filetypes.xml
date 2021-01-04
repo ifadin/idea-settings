@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="registerServ" type="JavaScript" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
