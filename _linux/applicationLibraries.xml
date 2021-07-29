@@ -5,9 +5,6 @@
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/p/airpipe/.venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/p/airpipe/.venv/src/dna-queries" />
-        <root url="file://$USER_HOME$/p/airpipe/.venv/src/datalake" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-422188499" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -19,9 +16,6 @@
         <root url="file:///usr/lib/python3.6" />
         <root url="file:///usr/lib/python3.6/lib-dynload" />
         <root url="file://$USER_HOME$/p/airpipe/.venv/lib/python3.6/site-packages" />
-        <root url="file://$USER_HOME$/p/airpipe/.venv/src/dna-queries" />
-        <root url="file://$USER_HOME$/p/airpipe/.venv/src/datalake" />
-        <root url="file://$USER_HOME$/.IntelliJIdea2018.3/system/python_stubs/-422188499" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
