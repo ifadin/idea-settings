@@ -337,6 +337,31 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.6 (zms-insights-load-tests) interpreter library">
+      <CLASSES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/p/zms-insights-load-tests/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-2138314490" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///usr/lib/python3.6" />
+        <root url="file:///usr/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/p/zms-insights-load-tests/.venv/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/.cache/JetBrains/IntelliJIdea2020.3/python_stubs/-2138314490" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
     <library name="scala-sdk-2.12.8" type="Scala">
       <properties>
         <compiler-classpath>
