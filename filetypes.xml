@@ -9,6 +9,7 @@
       <mapping pattern="registerServ" type="JavaScript" />
       <mapping ext="xlsm" type="Native" />
       <mapping pattern="uspass" type="PLAIN_TEXT" />
+      <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="CISSOService" type="PLAIN_TEXT" />
       <mapping pattern="SkuNumberContext" type="PLAIN_TEXT" />
       <mapping pattern="cass" type="PLAIN_TEXT" />
