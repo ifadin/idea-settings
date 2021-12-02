@@ -7,8 +7,6 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="tunnel" type="Dockerfile" />
       <mapping pattern="registerServ" type="JavaScript" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="xlsm" type="Native" />
       <mapping pattern="uspass" type="PLAIN_TEXT" />
       <mapping pattern="CISSOService" type="PLAIN_TEXT" />
@@ -54,6 +52,8 @@
       <mapping pattern="test_example.py" type="Python" />
       <mapping pattern="prtime" type="Python" />
       <mapping ext="grf" type="XML" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="pre-commit" type="Bash" />
     </extensionMap>
   </component>
