@@ -1,61 +1,8 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="load" type="AUTO_DETECTED" />
-      <mapping pattern="q" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile.flyway" type="Dockerfile" />
-      <mapping ext="dev" type="Dockerfile" />
-      <mapping ext="tunnel" type="Dockerfile" />
-      <mapping pattern="registerServ" type="JavaScript" />
-      <mapping ext="xlsm" type="Native" />
-      <mapping pattern="uspass" type="PLAIN_TEXT" />
-      <mapping pattern=".python-version" type="PLAIN_TEXT" />
-      <mapping pattern="CISSOService" type="PLAIN_TEXT" />
-      <mapping pattern="SkuNumberContext" type="PLAIN_TEXT" />
-      <mapping pattern="cass" type="PLAIN_TEXT" />
-      <mapping pattern="res" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="crontab" type="PLAIN_TEXT" />
-      <mapping pattern="query" type="PLAIN_TEXT" />
-      <mapping pattern=".claspignore" type="PLAIN_TEXT" />
-      <mapping pattern="version" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc.build" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-nginx" type="PLAIN_TEXT" />
-      <mapping pattern="article-group-assignment-api-secret-token" type="PLAIN_TEXT" />
-      <mapping pattern="SkuPdpDistributionChart" type="PLAIN_TEXT" />
-      <mapping pattern="out" type="PLAIN_TEXT" />
-      <mapping pattern="pcd" type="PLAIN_TEXT" />
-      <mapping pattern="sec" type="PLAIN_TEXT" />
-      <mapping pattern="node-docker" type="PLAIN_TEXT" />
-      <mapping pattern="bricks" type="PLAIN_TEXT" />
-      <mapping pattern=".lock" type="PLAIN_TEXT" />
-      <mapping pattern="apply" type="PLAIN_TEXT" />
-      <mapping pattern="gd_metric" type="PLAIN_TEXT" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
-      <mapping pattern="orig" type="PLAIN_TEXT" />
-      <mapping pattern="bug" type="PLAIN_TEXT" />
-      <mapping pattern="VERSION" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
-      <mapping ext="prm" type="PLAIN_TEXT" />
-      <mapping ext="ldm" type="PLAIN_TEXT" />
-      <mapping ext="rc" type="PLAIN_TEXT" />
-      <mapping ext="drop" type="PLAIN_TEXT" />
-      <mapping ext="flyway" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="ovpn" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="rules" type="PLAIN_TEXT" />
-      <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
-      <mapping ext="index" type="PLAIN_TEXT" />
-      <mapping ext="cfg" type="PLAIN_TEXT" />
-      <mapping pattern="test_example.py" type="Python" />
-      <mapping pattern="prtime" type="Python" />
-      <mapping ext="grf" type="XML" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="pre-commit" type="Bash" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
